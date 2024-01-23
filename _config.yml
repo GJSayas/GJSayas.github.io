@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "GJS"
-description:	       "My First Website 🦾"
+description:	       "My First Website 🐦"
 author:              "Getsie Jinelle Sayas"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
