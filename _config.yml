@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Getsie's First Website"
-description:	       "Made with a minimalist Jekyll theme and Github"
+title:		           "GJS"
+description:	       "My First Website"
 author:              "Getsie Jinelle Sayas"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
