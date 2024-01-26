@@ -4,7 +4,7 @@ title: "Welcome to my Website!"
 author: "Getsie J Sayas"
 categories: documentation
 tags: [documentation,sample]
-image: welcome.png
+image: welcome.jpg
 ---
 
 Hi There, I'm Getsie! 
