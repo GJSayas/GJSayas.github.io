@@ -4,39 +4,28 @@ title: "Welcome to my Website!"
 author: "Getsie J Sayas"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: welcome.png
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Hi There, I'm Getsie! 
+This is the first edition of a website I have ever made! Here you fill find a compilation of the articles, projects and scientific investigations I have been a part of during my years as a Biomedical Engineering Student in Panamá. 
 
-## Getting Started
+## Where it started
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): This mini-project started as a graded assignation for my Artificial Inteligence class at the beginnings of 2024 in the Universidad Latina de Panamá [Check it out!](https://www.ulatina.edu.pa/), as of know I plan to use it to post my projects in this field. That being said, I hope I can continue to post content on other subjects that I have worked on or will work on in the future. 
 
-## Example Content
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+## My Portfolio: everything from 2021 to 2024
 
-## Questions?
+[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %}): Here you will find an organized and up to date list of all of the documentation that makes up my portfolio.
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
 
-## More Jekyll!
 
-### Lagrange
+## DISCLAIMERS!
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+### Theme Creator Info: 
+This and other minimalist Jekyll blog themes were built from scratch by Paul Le with the purpose of providing a simple, clean, content-focused blogging platform for personal sites or blogs. 
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+Feel free to check him out <a href="https://github.com/LeNPaul/">!
 
-### Portfolio Jekyll Theme
-
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
-
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+##### The theme used is completely free and open source software, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/).
