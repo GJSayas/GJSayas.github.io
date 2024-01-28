@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact
 ---
 ## Interested in contacting with me?
-You can email me at my professional email <mail.to:gjsayas.03@ieee.org>  gjsayas.03@ieee.org or through my LinkedIn profile by clicking <a herf="www.linkedin.com/in/getsie-jinelle-sayas-de-la-rosa-a02a97242"> here!
+You can email me at my professional email <mail.to:gjsayas.03@ieee.org> gjsayas.03@ieee.org or through my LinkedIn profile by clicking <a herf="www.linkedin.com/in/getsie-jinelle-sayas-de-la-rosa-a02a97242"> here!
 
 ### Also, you can find me as: 
 - GJSAYAS on <a hred="https://github.com/GJSayas"> GitHub!
