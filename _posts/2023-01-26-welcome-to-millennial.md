@@ -20,12 +20,6 @@ This is the first edition of a website I have ever made! Here you fill find a co
 [Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %}): Here you will find an organized and up to date list of all of the documentation that makes up my portfolio.
 
 
-
-## DISCLAIMERS!
-
-### Theme Creator Info: 
-This and other minimalist Jekyll blog themes were built from scratch by Paul Le with the purpose of providing a simple, clean, content-focused blogging platform for personal sites or blogs. 
-
-Feel free to check him out <a href="https://github.com/LeNPaul/"> Here!
-
-##### The theme used is completely free and open source software, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/).
+#
+## DISCLAIMER:
+##### The theme used in this website is an open source software, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/).
