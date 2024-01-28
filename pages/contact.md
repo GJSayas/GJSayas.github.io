@@ -3,5 +3,18 @@ layout: page
 title: Contact
 permalink: /contact
 ---
+## Interested in contacting with me?
+You can email me at my professional email <mail.to:gjsayas.03@ieee.org>  gjsayas.03@ieee.org or through my LinkedIn profile by clicking <a herf="www.linkedin.com/in/getsie-jinelle-sayas-de-la-rosa-a02a97242"> here!
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+### Also, you can find me as: 
+- GJSAYAS on <a hred="https://github.com/GJSayas"> GitHub!
+- _jinelle.odd on <a hred="https://www.instagram.com/_jinelle.odd/"> Instagram!
+
+
+
+### Theme Creator Info: 
+This and other minimalist Jekyll blog themes were built from scratch by Paul Le with the purpose of providing a simple, clean, content-focused blogging platform for personal sites or blogs. 
+
+Feel free to check him out <a href="https://github.com/LeNPaul/"> Here!
+
+##### The theme used is completely free and open source software, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/).
