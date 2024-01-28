@@ -16,6 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'linktree', link: 'https://linktr.ee/gjsayas03'}
 - {icon: 'linkedin-square', link: 'https://www.linkedin.com/in/getsie-jinelle-sayas-de-la-rosa-a02a97242/'}
 - {icon: 'instagram', link: 'https://www.instagram.com/_jinelle.odd/'}
 - {icon: 'envelope', link: 'mailto:gjsayas.03@ieee.org'}
