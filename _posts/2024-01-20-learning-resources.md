@@ -34,4 +34,3 @@ A great resource not only for learning many STEM disciplines (what most people p
 
 In more medically releated topic, another source for learning and gaining information is the Mayo Clinic's [website](https://www.mayoclinic.org/), which I mainly use to gain information on how medical procedures are done on their [Test Procedures Archives](https://www.mayoclinic.org/tests-procedures) and to see what scientific developments are taking place at [Mayo Clinic Research](https://www.mayo.edu/research). Also, they have a very interesting subdivision called the [College of Medicine and Sciente](https://college.mayo.edu/) where people can enroll in their programs. 
 
-##
