@@ -5,6 +5,7 @@ author: "Getsie J Sayas"
 categories: facts
 tags: [sample]
 image: Me.jpeg
+permalink: /about
 ---
 
 ## Hi there! I'm Getsie. 
