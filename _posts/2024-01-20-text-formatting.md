@@ -2,8 +2,8 @@
 layout: post
 title: "GJ Sayas's Portfolio"
 author: "Getsie J Sayas"
-categories: sample
-tags: [sample]
+categories: documentation
+tags: [documentation, sample]
 image: Documents.jpg
 ---
 
