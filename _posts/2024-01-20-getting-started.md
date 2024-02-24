@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started on AI"
 author: "Getsie J Sayas"
-categories: documentation
+categories: sample
 tags: [documentation,sample]
 image: inteligencia-artificial-medicina.jpg
 ---
