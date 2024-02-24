@@ -7,7 +7,9 @@ tags: [documentation,sample,resources]
 image: random.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+The beauty of Biomedical Engineering and STEM related topics, you either get it or not. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about Biomedical Engineering and keeping up to day with research done all around the world.
+
+---
 
 ## [Trusted Scientific Publications: Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/)
 
