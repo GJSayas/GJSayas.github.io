@@ -12,12 +12,12 @@ This is the first edition of a website I have ever made! Here you fill find a co
 
 ## Where it started
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): This mini-project started as a graded assignation for my Artificial Inteligence class at the beginnings of 2024 in the Universidad Latina de Panamá [Check it out!](https://www.ulatina.edu.pa/), as of know I plan to use it to post my projects in this field. That being said, I hope I can continue to post content on other subjects that I have worked on or will work on in the future. 
+[Getting Started]({{ site.github.url }}{% post_url 2024-01-20-getting-started %}): This mini-project started as a graded assignation for my Artificial Inteligence class at the beginnings of 2024 in the Universidad Latina de Panamá [Check it out!](https://www.ulatina.edu.pa/), as of know I plan to use it to post my projects in this field. That being said, I hope I can continue to post content on other subjects that I have worked on or will work on in the future. 
 
 
 ## My Portfolio: everything from 2021 to 2024
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %}): Here you will find an organized and up to date list of all of the documentation that makes up my portfolio.
+[Text and Formatting]({{ site.github.url }}{% post_url 2024-02-24-text-formatting %}): Here you will find an organized and up to date list of all of the documentation that makes up my portfolio.
 
 
 #
