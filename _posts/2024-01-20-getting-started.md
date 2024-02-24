@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started on Github"
+title: "Getting Started on AI"
 author: "Getsie J Sayas"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: inteligencia-artificial-medicina.jpg
 ---
 # This Website?
 I have planned to use this website as a way to collect and publish all (of any) of my research achivements and project developments during my academic career and, hopefully, in my professional career in the future. As well as a compilation of the research resources I use in a regular basis to both help me and others to have access to them in an organized and centrilized manner. 
@@ -12,8 +12,8 @@ I have planned to use this website as a way to collect and publish all (of any) 
 ### As of now, February 24th of 2024, there aren't any personal documentations stated in this website. 
 
 
-# My beginnings on Github
-I have studied programming before, but the creation of this website surely took time (even with the help of Paul Le's template), all because getting comfortable with a new programming platfom and language its not easy! This website and all of the things I will post on my Github is my take on how programming can be intuitive and not purely methodical.  
+# My beginnings on Github and AI
+I have studied programming before, but the creation of this website surely took time (even with the help of Paul Le's template), all because getting comfortable with a new programming platfom and language its not easy! This website and all of the things I will post on my Github is my take on how programming can be intuitive and not purely methodical.  As of AI, it is not that different, except for the fact that I still don't feel capable of creating an AI model with our without a "template" haha
 
 #### But, Why did this start? 
 
