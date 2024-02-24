@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to my Website!"
 author: "Getsie J Sayas"
-categories: documentation
+categories: sample
 tags: [documentation,sample]
 image: welcome.jpg
 ---
