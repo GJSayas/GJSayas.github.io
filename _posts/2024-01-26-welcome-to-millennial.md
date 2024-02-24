@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: welcome.jpg
 ---
 
-Hi There, I'm Getsie! 
+Welcome, I'm Getsie! 
 This is the first edition of a website I have ever made! Here you fill find a compilation of the articles, projects and scientific investigations I have been a part of during my years as a Biomedical Engineering Student in Panamá. 
 
 ## Where it started
