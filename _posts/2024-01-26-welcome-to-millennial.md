@@ -17,7 +17,7 @@ This is the first edition of a website I have ever made! Here you fill find a co
 
 ## My Portfolio: everything from 2021 to 2024
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2024-02-24-text-formatting %}): Here you will find an organized and up to date list of all of the documentation that makes up my portfolio.
+[Text and Formatting]({{ site.github.url }}{% post_url 2024-01-20-text-formatting %}): Here you will find an organized and up to date list of all of the documentation that makes up my portfolio.
 
 
 #
