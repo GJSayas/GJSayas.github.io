@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Getsie J Sayas"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: Me.jpeg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+## Hi there! I'm Getsie. 
+I’m a forth year Biomedical Engineering Student over in Panama, the little country with a massive use to the commercial world. I plan to use this website as a compilation of my writings, projects and other achivements in my professional career. 
+
