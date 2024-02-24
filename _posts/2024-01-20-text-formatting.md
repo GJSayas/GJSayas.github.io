@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Portfolio"
+title: "GJ Sayas's Portfolio"
 author: "Getsie J Sayas"
 categories: sample
 tags: [sample]
