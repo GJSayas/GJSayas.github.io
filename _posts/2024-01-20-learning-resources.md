@@ -3,7 +3,7 @@ layout: post
 title: "Learning Resources on BME"
 author: "Getsie J Sayas"
 categories: resources
-tags: [documentation,sample]
+tags: [documentation,sample,resources]
 image: random.jpg
 ---
 
