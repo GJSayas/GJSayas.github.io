@@ -20,7 +20,7 @@ I have studied programming before, but the creation of this website surely took 
 This mini-project started as a graded assignation for my Artificial Inteligence class at the beginnings of 2024 in the Universidad Latina de Panamá [Check it out!](https://www.ulatina.edu.pa/), I'm still trying :D
 
 
-## ________________________________________________________________________________ 
+## 
 
 ## Credits
 
