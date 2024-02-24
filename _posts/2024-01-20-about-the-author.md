@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Getsie J Sayas"
-categories: facts
+categories: sample
 tags: [sample]
 image: Me.jpeg
 permalink: /about
